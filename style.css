@@ -11,4 +11,9 @@ div{
 
 main{
     margin-top: 10px;
+    display: flex;
+}
+
+img{
+    width: 200px;
 }
